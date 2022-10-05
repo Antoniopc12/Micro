@@ -128,6 +128,8 @@ int main(void){
             for(i = 0; i< 40000; i++);
         }
 
+        while(1);
+
   // Codigo principal, (poner en bucle infinito o bajo consumo)
 }
 void GPIOFIntHandler(void)
