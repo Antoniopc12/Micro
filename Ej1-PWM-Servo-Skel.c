@@ -11,9 +11,9 @@
 /*  trabajo, provocando un aumento/reducción de la velocidad e incluso cambio */
 /*  sentido                                                                   */
 /* RECURSOS :                                                                 */
-/* AUTOR    : Ignacio Herrero Reder (iherrero@uma.es)                         */
+/* AUTOR    : Ignacio Herrero  (iherrero@uma.es)                         */
 /* FECHA    : 08/10/17                                                        */
-/* COMENTARIOS  : 1 tabulador = 8 espacios                                    */
+/* COMENTARIOS  : 1 tabulador = 8 espacios  hOLA buenas                                  */
                 
 /* **************************************************************************	*/
 #include <stdint.h>
