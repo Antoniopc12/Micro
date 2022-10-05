@@ -1,5 +1,5 @@
 /* ************************************************************************** */
-/* UNIVERSIDAD DE MALAGA               DEPARTAMENTO DE TECNOLOGIA ELECTRONICA */
+/* UNIVERSIDAD DE MALAGAKA               DEPARTAMENTO DE TECNOLOGIA ELECTRONICA */
 /* http://www.uma.es                                    http://www.dte.uma.es */
 /* ========================================================================== */
 /* PROGRAMA :  PWM-Servo                                                      */
@@ -11,9 +11,9 @@
 /*  trabajo, provocando un aumento/reducción de la velocidad e incluso cambio */
 /*  sentido                                                                   */
 /* RECURSOS :                                                                 */
-/* AUTOR    : Ignacio Herrero Reder (iherrero@uma.es)                         */
+/* AUTOR    : Ignacio Herrero  (iherrero@uma.es)                         */
 /* FECHA    : 08/10/17                                                        */
-/* COMENTARIOS  : 1 tabulador = 8 espacios                                    */
+/* COMENTARIOS  : 1 tabulador = 8 espacios                                 */
                 
 /* **************************************************************************	*/
 #include <stdint.h>
@@ -127,6 +127,8 @@ int main(void){
                 duty -= 1;*/
             for(i = 0; i< 40000; i++);
         }
+
+        while(1);
 
   // Codigo principal, (poner en bucle infinito o bajo consumo)
 }
