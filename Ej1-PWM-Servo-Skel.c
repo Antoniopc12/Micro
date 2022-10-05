@@ -1,5 +1,5 @@
 /* ************************************************************************** */
-/* UNIVERSIDAD DE MALAGA               DEPARTAMENTO DE TECNOLOGIA ELECTRONICA */
+/* UNIVERSIDAD DE MALAGAKAKAKA               DEPARTAMENTO DE TECNOLOGIA ELECTRONICA */
 /* http://www.uma.es                                    http://www.dte.uma.es */
 /* ========================================================================== */
 /* PROGRAMA :  PWM-Servo                                                      */
