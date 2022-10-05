@@ -64,6 +64,7 @@ int main(void){
 
     //uint32_t ui32Period, ui32DutyCycle;
     int x=0;
+    int y=0;
     uint32_t val_load, pwm_clk;
     static uint32_t valor1,valor2;
     //static uint32_t valor;
