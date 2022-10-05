@@ -1,5 +1,5 @@
 /* ************************************************************************** */
-/* UNIVERSIDAD DE MALAGA               DEPARTAMENTO DE TECNOLOGIA ELECTRONICA */
+/* UNIVERSIDAD DE MALAGAKA               DEPARTAMENTO DE TECNOLOGIA ELECTRONICA */
 /* http://www.uma.es                                    http://www.dte.uma.es */
 /* ========================================================================== */
 /* PROGRAMA :  PWM-Servo                                                      */
@@ -13,7 +13,7 @@
 /* RECURSOS :                                                                 */
 /* AUTOR    : Ignacio Herrero  (iherrero@uma.es)                         */
 /* FECHA    : 08/10/17                                                        */
-/* COMENTARIOS  : 1 tabulador = 8 espacios  hOLA buenas                                  */
+/* COMENTARIOS  : 1 tabulador = 8 espacios                                 */
                 
 /* **************************************************************************	*/
 #include <stdint.h>
